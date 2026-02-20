@@ -19,37 +19,29 @@ public class PlayerControllerExam02 : MonoBehaviour
 
     void Update()
     {
-        
+    
         verticalInput = moveAction.ReadValue<Vector2>().y;
 
-        
-        transform.Translate(Vector3.forward * verticalInput * speed * Time.deltaTime);
+        transform.Translate(Vector3.forward * verticalInput * speed * Time.deltaTime, Space.World);
 
-        
+      
         if (transform.position.z > zRange)
         {
-            transform.position = new Vector3(
-                transform.position.x,
-                transform.position.y,
-                zRange
-            );
+            transform.position = new Vector3(transform.position.x, transform.position.y, zRange);
         }
         else if (transform.position.z < -zRange)
         {
-            transform.position = new Vector3(
-                transform.position.x,
-                transform.position.y,
-                -zRange
-            );
+            transform.position = new Vector3(transform.position.x, transform.position.y, -zRange);
         }
 
-        
+       
         if (shootAction.triggered)
         {
+
             Instantiate(
                 projectilePrefab,
                 transform.position,
-                projectilePrefab.transform.rotation
+                Quaternion.Euler(0, 90, 0)
             );
         }
     }
