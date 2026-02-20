@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|d:\\chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|d:\\chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|d:\\chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|d:\\chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|d:\\chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|d:\\chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|d:\\chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\assets\\scripts\\wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93826B83-7EFF-FBC1-356F-F265385EE215}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:49:45.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:37:54.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveForward.cs",
+              "DocumentMoniker": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
+              "ToolTip": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:34:57.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerExam02.cs",
+              "DocumentMoniker": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "ToolTip": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:23:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaveSpawnManager.cs",
+              "DocumentMoniker": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\WaveSpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawnManager.cs",
+              "ToolTip": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\WaveSpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:15:37.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaveController.cs",
+              "DocumentMoniker": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\WaveController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveController.cs",
+              "ToolTip": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\WaveController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:15:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wave.cs",
+              "DocumentMoniker": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\Wave.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wave.cs",
+              "ToolTip": "D:\\Chaturaphat\\-bu-2025-sem2-gi244-week06-1670704327\\Assets\\Scripts\\Wave.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:10:28.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

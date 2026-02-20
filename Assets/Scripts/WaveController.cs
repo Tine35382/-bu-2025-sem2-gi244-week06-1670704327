@@ -7,6 +7,8 @@ public class WaveController : MonoBehaviour
     private Wave currentWave;
     private int enemiesSpawned = 0;
     private float nextSpawnTime = 0f;
+    public float xRange = 10f;
+    public float zRange = 10f;
 
     public bool IsComplete()
     {
